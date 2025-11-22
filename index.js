@@ -8,3 +8,4 @@ function greet() {
 function add(a, b) {
     return a + b + conn;
 }
+module.exports = { greet, add };
